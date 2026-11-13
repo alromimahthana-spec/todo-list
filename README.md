@@ -14,7 +14,9 @@ python main.py
 
 ## About Me
 - Name: Thanaa
-- Website: Thanaa.codes
+- Business: Ready replies for shops
+- Instagram: thanaa.codes
+- WhatsApp: wa.me/967785648585
 - GitHub: alromimahthanaa
 
 ---

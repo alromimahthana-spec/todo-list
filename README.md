@@ -1,21 +1,21 @@
-# قائمة مهام ثناء
+# Thanaa To-Do List
 
-مشروعي الخامس في رحلتي لتعلم البرمجة
+My 5th project in my coding journey
 
-## المميزات
-- اضافة مهام جديدة
-- عرض كل المهام
-- تحديد المهمة كـ منجزة
-- حذف المهام
-- واجهة نظيفة وسهلة
+## Features
+- Add new tasks
+- Show all tasks
+- Mark task as done
+- Delete tasks
+- Clean and easy interface
 
-## كيف تشغل البرنامج؟
+## How to run?
 python main.py
 
-## عني
-- الاسم: ثناء
-- الموقع: Thanaa.codes
+## About Me
+- Name: Thanaa
+- Website: Thanaa.codes
 - GitHub: alromimahthanaa
 
 ---
-صنع بحب من ثناء
+Made with love by Thanaa
